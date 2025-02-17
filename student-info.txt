@@ -1,2 +1,2 @@
-StudentId:
-Name:
+StudentId:2580010
+Name:Yamkela
